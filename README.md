@@ -149,7 +149,7 @@ Complete method addFish.
 public ArrayList<Fish> addFish(ArrayList<Fish> fishes)
 ```
 
-Part (c) addTank method
+## **Part (c) addTank method** 
 The addTank method adds fishTank to the aquarium if a suitable position can be found. The temperature of fishTank can be no more than 5 degrees different (lower or higher) than each of any adjacent tanks. The aquarium may contain zero or more tanks. The method returns true if fishTank was successfully added, false otherwise. The positions of the tanks already in the aquarium relative to each other should not be changed.
 
 Complete method addTank.
