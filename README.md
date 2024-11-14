@@ -1,8 +1,7 @@
 # 8.3-Aquarium---Quiz
 
-Some of the AP Computer Science Free Response Problems require you to manipulate an array or ArrayList in a way that is more complex than just visiting each element. This problem is intended as practice with more complex manipulations.
-
 ## **Problem description**
+### **Fish**
 The Fish class stores information about the minimum and maximum temperatures that a fish can tolerate as well as other fish with which it is compatible. The declaration of the Fish class is shown below.
 
 ```java
@@ -57,7 +56,7 @@ public class Fish{
     
 }
 ```
-
+### **Tank**
 
 The Tank class stores the temperature of the tank and the list of fish in the tank. The declaration of the Tank class is shown below.
 
@@ -98,7 +97,7 @@ public class Tank{
     // There may be variables, constructors, and methods that are not shown.
 }
 ```
-
+### **Aquarium**
 An aquarium stores information about the fish in its tanks, about the tanks themselves, and about the positions of the tanks relative to each other.
 
 The Aquarium class stores all tanks in the aquarium. The declaration of the Aquarium class is shown below. You will write several methods of the Aquarium class.
