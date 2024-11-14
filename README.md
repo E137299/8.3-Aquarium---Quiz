@@ -27,7 +27,7 @@ public class Fish{
     public boolean isCompatible(Fish otherFish)
     { /* implementation not shown */ }
 
-    // There may be instance variables, constructors, and methods that are not shown.
+
 }
 ```
 
@@ -58,7 +58,7 @@ public class Tank
     public void addFish(Fish fishy)
     { /* implementation not shown */ }
 
-    // There may be variables, constructors, and methods that are not shown.
+
 }
 ```
 
